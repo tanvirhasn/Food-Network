@@ -1,9 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 85px;
     color: #545454;
+}
+h2{
+    font-size: 50px;
+    color: dimgray;
 }
 h3{
     color: gray;
@@ -21,6 +26,7 @@ h3{
 }
 .flexible-container{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -35,4 +41,16 @@ h3{
 }
 .orange-color{
     color: orange;
+}
+.sec2-img{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    margin-bottom: 100px;
+}
+.sec2-writing{
+    padding-left: 50%;
+    padding-right: 15%;
+    padding-top: 10%;
 }
