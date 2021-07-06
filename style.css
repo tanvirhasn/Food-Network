@@ -81,3 +81,20 @@ div.text{
     width: 90%;
     padding: 20px;
 }
+.subscriber{
+    width: 86%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+    height: 300px;
+}
+.spacing{
+    line-height: 10px;
+    padding-top: 100px;
+}
