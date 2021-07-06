@@ -98,3 +98,23 @@ div.text{
     line-height: 10px;
     padding-top: 100px;
 }
+.footer{
+    background-color: #0B0D17;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    margin-left: 10px;
+    padding-top: 25px;
+    line-height: 35px;
+}
+.gradient-text {
+    background-image: linear-gradient(.25turn,orange,tomato);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+  }
+#normal-text{
+      color: white;
+      font-size: 20px;
+  }
